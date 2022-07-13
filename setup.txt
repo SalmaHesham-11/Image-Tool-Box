@@ -1,0 +1,13 @@
+1-install Qt vs tool(qt-vsaddin-msvc2019).
+2-open visualstudio->extensions->Select Qt VS Tools > Qt Options > Qt Versions > Add.
+3-In the Path field, enter the path to the Qt root directory. For example: C:\Qt5\5.10.1\msvc2013_64.
+4-Select OK.
+5-open the project 
+(https://www.bogotobogo.com/Qt/Qt5_Visual_Studio_Add_in.php)
+
+or 
+install Qt creator and Cmake and configure with opencv
+(https://stackoverflow.com/questions/15881913/how-to-link-opencv-in-qtcreator-and-use-qt-library?fbclid=IwAR2-P5PrUQWahQLdiBVUOaxoVwrSEt9gGH62ePFJ978hNHP6yCWJqbEYvy8)
+
+note:
+when useing blinging function should use a image from the main folder
